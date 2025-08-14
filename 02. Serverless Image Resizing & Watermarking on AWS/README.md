@@ -7,7 +7,7 @@ This guide walks you through building a serverless image processing pipeline usi
 ## Architecture Overview
 
 1.	**Raw Images S3 Bucket** – Stores original uploaded images.
-…```url
+```url
 ✅You now have a fully functional serverless image processing pipeline with automatic resizing, watermarking, metadata storage and global distribution.
 ```
 
